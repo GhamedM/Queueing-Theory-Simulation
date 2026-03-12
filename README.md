@@ -20,6 +20,8 @@ Click the image below to view the interactive Tableau dashboard:
 4. **Empirical vs. Theoretical:** A direct visual comparison proving that simulated continuous data (represented as an area chart) correctly aligns with theoretical pure-math formulas (represented as lines).
 
 ## Repository Files
-* `simulation_code.ipynb`: The Jupyter Notebook containing the statistical generation logic.
-* `exponential_simulated_2000.csv`: The output data for continuous wait times.
+
+* `Poisson_exp_stat.ipynb`: The Jupyter Notebook containing the statistical generation logic.
+* `exponential_simulated_2000.csv`: The output data for simulated continuous wait times.
+* `exponential_theoretical_61.csv`: The output data for theoretical continuous wait times.
 * `poisson_arrivals.csv`: The output data for discrete arrival counts.
